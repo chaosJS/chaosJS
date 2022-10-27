@@ -23,5 +23,8 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=chaosJS" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=chaosJS&include_all_commits=true" />
+</div>
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=chaosJS&theme=minimal&include_all_commits=true" />
 </div>
